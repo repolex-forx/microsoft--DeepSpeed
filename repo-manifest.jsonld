@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/microsoft/DeepSpeed/commit/036230e4f97c728204f89b1f8214addc9465b5c5",
       "git:hexsha": "036230e4f97c728204f89b1f8214addc9465b5c5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "nightly-last-green"
     },
     {
