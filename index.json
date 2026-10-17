@@ -1,0 +1,11 @@
+{
+  "org": "microsoft",
+  "repo": "DeepSpeed",
+  "versions": [
+    {
+      "commit": "036230e4f97c728204f89b1f8214addc9465b5c5",
+      "tag": "nightly-last-green",
+      "parsed_at": "2026-10-17T15:15:27.248188+00:00"
+    }
+  ]
+}
